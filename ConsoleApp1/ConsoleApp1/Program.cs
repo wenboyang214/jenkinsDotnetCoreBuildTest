@@ -6,9 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            for(int i=0;i<10;i++)
+            for(int i=0;i<6;i++)
             {
-                Console.WriteLine($"Hello World! -----{i}");
+                Console.WriteLine($"Hello World! -----{i} Hello wenbo {i}");
             }           
         }
     }
