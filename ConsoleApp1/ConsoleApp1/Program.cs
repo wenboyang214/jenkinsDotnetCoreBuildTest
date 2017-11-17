@@ -10,8 +10,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine($"Hello World! -----{i}");
             }
-            Console.ReadLine();
-            
         }
     }
 }
